@@ -28,10 +28,9 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/phase-1-javascript-quotes-practice#readme",
   "dependencies": {
-    "bootstrap": "^5.3.2",
     "chai": "^4.2.0",
-    "jsdom": "^22.1.0",
-    "mocha": "^10.2.0",
+    "jsdom": "^9.0",
+    "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0"
   }
 }
